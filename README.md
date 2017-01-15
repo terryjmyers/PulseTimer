@@ -3,7 +3,7 @@ PulseTimer
 
 Created by Terry Myers Dec 2016
 
-V0.1
+V1.0
 
 Creates a boolean that is set true for one loop of the code based on a preconfigured time.  The error created by varying loop times is automatically subtracted out.  For example, a 1000ms pulse: When PulseTimer.tick() is called 1002ms has passed since the last pulse, the pulse bit is set and 2ms is subtracted.  The next pulse will be "scheduled" to occur 998 ms later.
 
