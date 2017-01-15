@@ -1,0 +1,14 @@
+{
+  "name": "PulseTimer by Terry Myers",
+  "authors": "Terry Myers <TerryJMyers@gmail.com",
+  "keywords": "timer",
+  "description": "Creates a boolean that is set true for one loop of the code based on a preconfigured time.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terryjmyers/PulseTimer.git"
+  },
+  "license": "	GPL-3.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
+
